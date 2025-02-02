@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 Estudante de programação autodidata<br>🌎 Desenvolvimento Web</p>
+<p align="left">📚 Estudante de programação autodidata<br>🌎 Desenvolvimento Web<br>💻 Fullstack Developer<br>🚀 Em constante aprendizado</p>
 
 ###
 
