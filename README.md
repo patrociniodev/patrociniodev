@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">💻 Fullstack Developer<br>🌎 Desenvolvimento Web<br>🚀 Em constante aprendizado</p>
+<p align="left">💻 Fullstack Developer<br>🌐 Desenvolvimento Web<br>🚀 Em constante aprendizado</p>
 
 ###
 
